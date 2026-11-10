@@ -8,6 +8,7 @@
 |Log vận hành model AI|
 
 -[x] Sắp xếp thư mục dự án 
+
 -[ ] Upload dự án lên GitHub
 ```powershell
 Get-Content quan-li-model-ai
