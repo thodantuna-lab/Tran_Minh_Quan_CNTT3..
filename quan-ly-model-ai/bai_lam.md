@@ -3,7 +3,7 @@
 - **Mã đề:**
 - **Họ tên:Trần Minh Quân**
 - **Lớp:CNTT3**
-- **Link repository:**
+- **Link repository:https://github.com/thodantuna-lab/Tran_Minh_Quan_CNTT3../blob/main/quan-ly-model-ai/README.md**
 - **Hệ điều hành Windows**
 
 ## 4.2. Thao tác máy tính cơ bản bằng CLI
